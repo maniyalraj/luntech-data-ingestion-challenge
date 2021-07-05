@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data-ingestion-consumer-kafka" />
+        <module name="data-ingestion-rest" />
+        <module name="data-ingestion-producer" />
+        <module name="data-ingestion-consumer-cassandra" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="data-ingestion-consumer-cassandra" target="11" />
+      <module name="data-ingestion-consumer-kafka" target="11" />
+      <module name="data-ingestion-producer" target="11" />
+      <module name="data-ingestion-rest" target="11" />
+      <module name="luntech-data-ingestion-challenge" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
