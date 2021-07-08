@@ -13,6 +13,8 @@
         <module>data-ingestion-consumer-cassandra</module>
         <module>data-ingestion-consumer-kafka</module>
         <module>data-ingestion-rest</module>
+        <module>dataingestionproducerv2</module>
+        <module>BingMapsTransformer</module>
     </modules>
 
     <properties>

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BingMapsTransformer/BingMapsTransformer.iml" filepath="$PROJECT_DIR$/BingMapsTransformer/BingMapsTransformer.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-ingestion-consumer-cassandra/data-ingestion-consumer-cassandra.iml" filepath="$PROJECT_DIR$/data-ingestion-consumer-cassandra/data-ingestion-consumer-cassandra.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-ingestion-consumer-kafka/data-ingestion-consumer-kafka.iml" filepath="$PROJECT_DIR$/data-ingestion-consumer-kafka/data-ingestion-consumer-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-ingestion-producer/data-ingestion-producer.iml" filepath="$PROJECT_DIR$/data-ingestion-producer/data-ingestion-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-ingestion-rest/data-ingestion-rest.iml" filepath="$PROJECT_DIR$/data-ingestion-rest/data-ingestion-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataingestionproducerv2/dataingestionproducerv2.iml" filepath="$PROJECT_DIR$/dataingestionproducerv2/dataingestionproducerv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/luntech-data-ingestion-challenge.iml" filepath="$PROJECT_DIR$/.idea/luntech-data-ingestion-challenge.iml" />
     </modules>
   </component>
